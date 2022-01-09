@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JivinSardine/game-online#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "websocket": "^1.0.34"
   }
 }
